@@ -1,6 +1,6 @@
 body {
     background-color: #FFFFE0;
-    font-family: Arial, sand-serif;
+    font-family: Arial, sans-serif;
     color: #191970;
 }
 
@@ -17,5 +17,5 @@ body {
 
 .kartu-profil img {
     width: 150px;
-    boder-radius: 50%;
+    border-radius: 50%;
 }
